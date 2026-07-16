@@ -235,6 +235,3 @@ void loop() {
 
 ---
 
-## ➡️ Next Session
-
-**Day 02:** Arduino Programming Basics, Digital Input/Output, LED Interfacing, Push Buttons, and Serial Monitor.
