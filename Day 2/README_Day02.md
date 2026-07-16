@@ -208,7 +208,3 @@ void loop()
 ✅ LED Blink Program
 
 ---
-
-## ➡️ Next Session
-
-**Day 03:** Push Buttons, Buzzer, Serial Monitor, and Sensor Interfacing.
