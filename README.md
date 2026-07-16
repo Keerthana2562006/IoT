@@ -75,12 +75,8 @@ Summer-BootCamp-IoT/
 ├── Day-02/
 ├── Projects/
 │   ├── LED Blink
-│   ├── Traffic Light
 │   ├── Digital Clock
-│   ├── Line Follower Robot
-│   ├── Sensor Interfacing
-│   └── More Projects
-│
+│   └── Line Follower Robot
 ├── Images/
 ├── Documentation/
 ├── Resources/
