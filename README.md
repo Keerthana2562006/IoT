@@ -73,8 +73,6 @@ Summer-BootCamp-IoT/
 │
 ├── Day-01/
 ├── Day-02/
-├── Day-03/
-├── Day-04/
 ├── Projects/
 │   ├── LED Blink
 │   ├── Traffic Light
@@ -136,18 +134,6 @@ After completing this boot camp, participants will be able to:
 3. Commit your changes
 4. Push the branch
 5. Open a Pull Request
-
----
-
-# 📸 Screenshots
-
-Add project images inside the `Images/` folder.
-
-Example:
-
-```markdown
-![Project](Images/project-image.png)
-```
 
 ---
 
