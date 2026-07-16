@@ -19,23 +19,6 @@ This project demonstrates an autonomous line-following robot using Arduino. Two 
 
 ---
 
-## 📷 Circuit Diagram
-
-> Save your circuit image in the repository as **LineFollwerRobot.png**
-
-```text
-README.md
-LineFollowerRobot.ino
-LineFollwerRobot.png
-LICENSE
-```
-
-```markdown
-![Circuit Diagram](LineFollwerRobot.png)
-```
-
----
-
 ## 🛠 Components
 
 | Component | Quantity |
@@ -122,8 +105,8 @@ LICENSE
 
 | Name | Role |
 |------|------|
-| **Lakhan Singh** | Arduino Programming, Integration & Documentation |
-| **________________** | Hardware Assembly & Testing |
+| **Lakhan Singh, Adharsh, Suraj, keerthana** | Hardware Assembly, Testing & Documentation |
+| **Pragna, Bejjam** |  Arduino Programming, Integration|
 
 ---
 
